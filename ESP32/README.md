@@ -12,8 +12,8 @@ This repository contains multiple embedded systems and IoT projects built using 
 # ESP32-S3 Internet Synced Clock
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=JbDgiZMS_bGYW36z">
-    <img src="https://img.youtube.com/vi/JbDgiZMS_bGYW36z/maxresdefault.jpg" width="700">
+  <a href="https://www.youtube.com/watch?v=EtSHIZ-dgao">
+    <img src="https://i.ytimg.com/vi/EtSHIZ-dgao/hqdefault.jpg" width="700">
   </a>
 </p>
 
