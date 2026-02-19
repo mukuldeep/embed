@@ -11,7 +11,7 @@ This repository contains multiple embedded systems and IoT projects built using 
 
 # ESP32-S3 Internet Synced Clock
 
-<video src="./files/netSyncClock.mp4" controls></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EtSHIZ-dgao?si=JbDgiZMS_bGYW36z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 An internet-connected digital clock built using the **ESP32-S3** microcontroller.  
 The device automatically synchronizes time from an NTP (Network Time Protocol) server over WiFi.
